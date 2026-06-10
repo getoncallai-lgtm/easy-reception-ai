@@ -1,8 +1,12 @@
 import express, { type Express } from "express";
 import cors from "cors";
-import pinoHttp from "pino-http";
+import type { Options } from "pino-http";
 import router from "./routes";
 import { logger } from "./lib/logger";
+
+// pino-http uses `export =` (CommonJS) — cast to callable to work across all TS configs
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const pinoHttp = require("pino-http") as (opts: Options) => express.RequestHandler;
 
 const app: Express = express();
 
