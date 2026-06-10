@@ -1,0 +1,60 @@
+Terms & Conditions
+ Last Updated: September 18, 2025
+ 1. Service Scope
+ Easy Reception AI provides AI-powered receptionist services including: call answering, appointment
+ booking, reminders, intake data collection, and call summaries.
+ Services are provided via integrations with third-party platforms (e.g., Twilio, ElevenLabs, CRMs).
+ We may update or improve features from time to time without prior notice.
+ 2. Account & Usage
+ You must provide accurate information when creating an account or onboarding.
+ You are responsible for ensuring your business scripts, compliance requirements, and data shared with
+ us are lawful and accurate.
+ Services are intended for professional business use. Personal or unlawful use is prohibited.
+ 3. Payments & Fees
+ Pricing is outlined in your plan agreement or subscription details.
+ Fees are billed on a recurring basis unless otherwise stated.
+ Setup/deployment fees apply unless waived under a promotional offer.
+ Failure to pay may result in suspension or termination of Services.
+ 4. Monthly Retainer
+ Easy Reception AI operates on a monthly retainer basis.
+ The retainer fee covers access to our Services for the month, including call handling, appointment
+ booking, and integrations as outlined in your plan.
+ The retainer is billed in advance each month.
+ Retainer payments are non-refundable, including in cases of unused minutes, lower call volume, or
+ early cancellation.
+ If you wish to cancel, you must provide notice at least 7 days before your next billing date. Cancellation
+ will take effect at the end of the current billing cycle.
+ Any additional usage beyond the retainer plan (if applicable) will be billed separately according to your
+ agreement.
+ 5. Promotions & Offers
+ From time to time, Easy Reception AI may run promotional offers (e.g., waived setup fee, early adopter
+ discounts).
+ Promotional offers are valid only during the stated period and cannot be retroactively applied.
+ All promotional savings (e.g., $700 setup waiver) are subject to eligibility and confirmation by Easy
+ Reception AI.
+6. Compliance & Data Use
+ You are responsible for ensuring that the scripts and call flows you provide comply with
+ industry-specific regulations (including but not limited to legal, healthcare, or financial compliance).
+ Easy Reception AI does not provide legal, medical, or financial advice. Our Service simply executes
+ your provided instructions.
+ By using the Service, you grant Easy Reception AI permission to process and store call data, including
+ recordings and transcripts, for service delivery and quality improvement.
+ 7. Confidentiality & Security
+ We take reasonable steps to safeguard call data and personal information.
+ We do not sell customer data to third parties.
+ You must notify us immediately if you suspect unauthorized use of your account.
+ 8. Limitations of Liability
+ Easy Reception AI is not responsible for:- Missed calls due to outages with third-party providers.- Incorrect or incomplete client information provided by callers.- Business outcomes or client decisions resulting from calls.
+ Our liability, in any case, is limited to the amount you paid for the Services in the 3 months preceding
+ the claim.
+ 9. Termination
+ You may cancel your subscription at any time.
+ We reserve the right to suspend or terminate Services if you breach these Terms or engage in unlawful
+ use.
+ 10. Governing Law
+ These Terms are governed by the laws of [Insert Jurisdiction, e.g., India or United States depending on
+ your incorporation].
+ Any disputes will be subject to the exclusive jurisdiction of the courts in [Insert Location].
+ 11. Contact Us
+ For any questions about these Terms & Conditions, contact us at:
+ getoncallai@gmail.com
